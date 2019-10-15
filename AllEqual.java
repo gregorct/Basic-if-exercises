@@ -9,9 +9,9 @@ public class AllEqual{
         int c = Integer.parseInt(args[2]);
 
         if(a!=b){
-            System.out.println("not equal");
+            System.out.println("not all equal");
         }else{
-            System.out.println("equal");
+            System.out.println("all equal");
         }
     }
 }
